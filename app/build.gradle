@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.0"
 
     defaultConfig {
-        applicationId "info.androidhive.glide"
+        applicationId "local.cheema.imageviewer"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
